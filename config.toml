@@ -1,4 +1,5 @@
-baseurl = "https://uni.kawalerowicz.net/"
+publishDir = "docs"
+baseurl = "http://uni.kawalerowicz.net/"
 title = "Marcin Kawalerowicz - Academic"
 copyright = "&copy; 2017 Marcin Kawalerowicz"
 theme = "academic"
