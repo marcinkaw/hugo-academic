@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Marcin Kawalerowicz - Academic</title>
-    <link>http://kawalerowicz.net/uni/publication/index.xml</link>
+    <link>https://uni.kawalerowicz.net/publication/index.xml</link>
     <description>Recent content in Publications on Marcin Kawalerowicz - Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Marcin Kawalerowicz</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/uni/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>http://kawalerowicz.net/uni/publication/person-re-identification/</link>
+      <link>https://uni.kawalerowicz.net/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://kawalerowicz.net/uni/publication/person-re-identification/</guid>
+      <guid>https://uni.kawalerowicz.net/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>http://kawalerowicz.net/uni/publication/clothing-search/</link>
+      <link>https://uni.kawalerowicz.net/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://kawalerowicz.net/uni/publication/clothing-search/</guid>
+      <guid>https://uni.kawalerowicz.net/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
