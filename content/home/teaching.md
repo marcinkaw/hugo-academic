@@ -14,4 +14,10 @@ weight = 60
 
 +++
 
-Django
+# Django
+
+GitHub [SimpleBooks project](https://github.com/marcinkaw/SimpleBooks)
+
+Custom Python 3.5 (64bit) [download](http://kawalerowicz.net/uni/Python35.zip)
+
+Custom Python 3.4 (32bit) [download](http://kawalerowicz.net/uni/Python34.zip)
